@@ -1,0 +1,3 @@
+# Ignore ~backups
+# Should put this to local conf file
+*~
